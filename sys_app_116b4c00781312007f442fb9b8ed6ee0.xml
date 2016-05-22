@@ -6,7 +6,7 @@
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <logo/>
-        <menu display_value="fitbit">d56b4480781312007f442fb9b8ed6e69</menu>
+        <menu display_value="">d56b4480781312007f442fb9b8ed6e69</menu>
         <name>fitbit</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -27,7 +27,7 @@
         <sys_updated_on>2016-05-05 03:54:15</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role display_value="x_fitbit.user" name="x_fitbit.user">116b4480781312007f442fb9b8ed6e6a</user_role>
+        <user_role display_value="">116b4480781312007f442fb9b8ed6e6a</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
